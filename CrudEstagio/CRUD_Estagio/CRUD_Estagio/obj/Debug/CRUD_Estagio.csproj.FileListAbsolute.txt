@@ -1,0 +1,10 @@
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\bin\Debug\CRUD_Estagio.exe.config
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\bin\Debug\CRUD_Estagio.exe
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\bin\Debug\CRUD_Estagio.pdb
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.csproj.AssemblyReference.cache
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.Form1.resources
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.Properties.Resources.resources
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.csproj.GenerateResource.cache
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.csproj.CoreCompileInputs.cache
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.exe
+C:\Users\Marlene de Oliveira\Desktop\CrudEstagio\CRUD_Estagio\CRUD_Estagio\obj\Debug\CRUD_Estagio.pdb
